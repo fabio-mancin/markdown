@@ -1,0 +1,14 @@
+#app {
+  display: flex;
+  justify-content: center
+}
+
+#editor {
+  width: 80vw;
+  height: 40vh
+}
+
+#preview {
+  border: 0.01em solid black;
+  padding: 1em
+}
